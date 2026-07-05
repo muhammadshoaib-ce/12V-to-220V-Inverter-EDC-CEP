@@ -64,17 +64,24 @@ The 220V AC output drives the connected load, tested using a low wattage energy 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/hardware_test_1.jpg" alt="Hardware Assembly" width="380"/>
+      <img src="images/hardware_test_3.jpeg" alt="Breadboard Assembly" width="280"/>
       <br><sub>Breadboard assembly of the push pull inverter stage</sub>
     </td>
     <td align="center">
-      <img src="images/hardware_test_2.jpeg" alt="Hardware Testing" width="380"/>
+      <img src="images/hardware_test_1.jpg" alt="Hardware Testing" width="280"/>
       <br><sub>Load testing with a 220V energy saver bulb</sub>
+    </td>
+    <td align="center">
+      <img src="images/hardware_test_2.jpeg" alt="Output Verification" width="280"/>
+      <br><sub>Output verification under load</sub>
     </td>
   </tr>
 </table>
 
-📹 A short demonstration of the working prototype is available here: [images/demo_video.mp4](images/demo_video.mp4)
+<div align="center">
+  <img src="images/demo_gif.gif" alt="Demo Preview" width="400"/>
+  <p><em>Working prototype in action</em></p>
+</div>
 
 ---
 
@@ -131,7 +138,8 @@ The 220V AC output drives the connected load, tested using a low wattage energy 
     ├── 🖼️ simulation_result.jpeg
     ├── 🖼️ hardware_test_1.jpg
     ├── 🖼️ hardware_test_2.jpeg
-    └── 🎬 demo_video.mp4
+    ├── 🖼️ hardware_test_3.jpeg
+    └── 🎬 demo_gif.gif
 ```
 
 ---
